@@ -12,3 +12,11 @@ Frontend: React (or Vue.js)
 Backend: Node.js with Express
 Database: MongoDB (using Mongoose)
 Authentication: JWT (JSON Web Tokens)
+2. Frontend (React)
+Initialize the React App:
+Create Pages:
+
+LoginPage.js: For user login.
+RegisterPage.js: For user registration.
+Dashboard.js: Admin dashboard to manage students.
+StudentList.js: Display list of students.
