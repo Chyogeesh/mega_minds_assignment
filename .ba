@@ -1,0 +1,2 @@
+mkdir config controllers models routes middleware
+touch server.js
